@@ -1,4 +1,4 @@
-# CyberBot
+# CyberBot :robot: :speech_balloon:
 Cybersecurity Threat Intelligence Bot
 
 # Cybersecurity Threat Intelligence Bot
