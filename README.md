@@ -38,3 +38,12 @@ pip install -r requirements.txt
   python main.py
   ```
 Then open your browser and navigate to http://127.0.0.1:5000 to access the dashboard.
+
+## Usage
+  **Threat Advisory:**
+  - Enter a query (e.g., "latest vulnerability in XYZ") into the input field and click the Generate Advisory button to receive a detailed security advisory along with an assessment of threat severity.
+
+  **Threat Dashboard:
+  - View the most recent data entries scraped from various sources in the real-time dashboard.
+
+
