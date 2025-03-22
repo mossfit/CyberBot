@@ -23,8 +23,8 @@ A cutting-edge, agentic cybersecurity threat intelligence bot using a Retrieval-
 ## Installation
 1. **Clone the Repository:**
    ```bash
-   git clone <your_repository_url>
-   cd cybersec_agent
+   git clone <repository_url>
+   cd CyberBot
 
 2. **Install Dependencies:**
   ```bash
